@@ -46,10 +46,18 @@ Does it have the correct dates, legal entities etc.?
 
 ## Maintainers
 
-Who created this?  
+Who created this? 
+
+Noor EL-Hawwat
 
 Do they have complete GitHub profiles?  
 
+https://github.com/Nooree233
+
 How can they be contacted?  
+
+Email: nooree233@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/noor-el-hawwat/
 
 Who is going to respond to pull requests?  
