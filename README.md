@@ -12,7 +12,7 @@ But also don't assume that they're a novice.
 ### How to Contribute
 -Create home screen, profile settings, and links with other pages through Flutter and Dart 
 
--Manage messaging features through Twilio
+-Manage messaging features through @platform and Flutter
 
 -Manage movie and music quizzes through AI programming
 
