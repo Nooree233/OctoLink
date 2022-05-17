@@ -9,7 +9,7 @@ OctoLink a messaging app that groups users through a set of minigames of their c
 This project is open to anyone interested in app development with Flutter, @platform, Dart, and some AI programming.
 
 ### How to Contribute
-Open source developers can find all features to work on in the issues page.
+Open source developers can find all aspects to work on in the issues page.
 
 ### Clarify Installation & Dependencies
 Are there specific installation requirements for open source developers to contribute to your project? As a minimum, apps on the @platform require installation of Flutter and Dart. 
@@ -21,6 +21,7 @@ Does the writing flow, with proper grammar and correct spelling?
 ### Links
 
 https://devpost.com/software/octopus-game
+https://www.figma.com/file/5ngoI289W2akwHJrfVLfxK/OctoLink?node-id=1%3A3
 
 Are the links to external resources correct?
 Are the links to other parts of the project correct
