@@ -6,15 +6,10 @@
 OctoLink a messaging app that groups users through a set of minigames of their choice to give them that push to interact with new people. We value connectivity as our minigames are split by the three fundamentals of what we believe will most effectively build this atmosphere: ideation, cooperation, communication. There are 4 minigames (octogames) to choose from, all of which end with the computer recommend and introduce the user to a new friend based on their performance. The minigames also utilize functions such as dasha.ai and @platform to help interact with users and meet our goals.
 
 ### Who is this for?
-The README should be addressed to somebody who's never seen this before.
-But also don't assume that they're a novice.
+This project is open to anyone interested in app development with Flutter, @platform, Dart, and some AI programming.
 
 ### How to Contribute
--Create home screen, profile settings, and links with other pages through Flutter and Dart 
-
--Manage messaging features through @platform and Flutter
-
--Manage movie and music quizzes through AI programming
+Open source developers can find all features to work on in the issues page.
 
 ### Clarify Installation & Dependencies
 Are there specific installation requirements for open source developers to contribute to your project? As a minimum, apps on the @platform require installation of Flutter and Dart. 
